@@ -1,0 +1,17 @@
+/* Custom styles */
+
+.wy-side-nav-search>div.version {
+ color:hsla(0,0%,100%,1);
+}
+
+.admonition, .admonition-title {
+    background: #82363682 !important;    
+}
+
+p.caption{
+    color: #d95b55 !important;    
+}
+
+a[href$="glob_empty_page.html"] {
+    color: #737373 !important;
+}
